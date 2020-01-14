@@ -1,4 +1,4 @@
-#Earthquake Damage Prediction
+##Earthquake Damage Prediction
 
 The dataset mainly consists of information on the buildings' structure and their legal ownership. Each row in the dataset represents a specific building in the region that was hit by Gorkha earthquake.
 
